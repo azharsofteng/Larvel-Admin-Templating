@@ -14,9 +14,9 @@
                 <div class="card mb-3 dashboard-card">
                     <div class="card-body mx-auto">
                         <div class=" d-flex justify-content-center align-items-center">
-                            <i class="fas fa-users fa-2x"></i>
+                            <i class="fas fa-cart-arrow-down fa-2x"></i>
                         </div>
-                        <p class="dashboard-card-text">Primary Card</p>
+                        <p class="dashboard-card-text">Sales Module</p>
                     </div>
                 </div>
             </div>
@@ -26,7 +26,7 @@
                         <div class=" d-flex justify-content-center align-items-center">
                             <i class="far fa-money-bill-alt fa-2x"></i>
                         </div>
-                        <p class="dashboard-card-text">Primary Card</p>
+                        <p class="dashboard-card-text">Purchase Module</p>
                     </div>
                 </div>
             </div>
@@ -34,19 +34,9 @@
                 <div class="card mb-3 dashboard-card">
                     <div class="card-body mx-auto">
                         <div class=" d-flex justify-content-center align-items-center">
-                            <i class="far fa-file-alt fa-2x"></i>
+                            <i class="fas fa-file-invoice-dollar fa-2x"></i>
                         </div>
-                        <p class="dashboard-card-text">Primary Card</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-xl-3 col-md-6">
-                <div class="card mb-3 dashboard-card">
-                    <div class="card-body mx-auto">
-                        <div class=" d-flex justify-content-center align-items-center">
-                            <i class="far fa-file-pdf fa-2x"></i>
-                        </div>
-                        <p class="dashboard-card-text">Primary Card</p>
+                        <p class="dashboard-card-text">Accounts Module</p>
                     </div>
                 </div>
             </div>
@@ -56,7 +46,7 @@
                         <div class=" d-flex justify-content-center align-items-center">
                             <i class="far fa-file-pdf fa-2x"></i>
                         </div>
-                        <p class="dashboard-card-text">Primary Card</p>
+                        <p class="dashboard-card-text">Reports Module</p>
                     </div>
                 </div>
             </div>
@@ -64,9 +54,9 @@
                 <div class="card mb-3 dashboard-card">
                     <div class="card-body mx-auto">
                         <div class=" d-flex justify-content-center align-items-center">
-                            <i class="fas fa-users fa-2x"></i>
+                            <i class="fas fa-cogs fa-2x"></i>
                         </div>
-                        <p class="dashboard-card-text">Primary Card</p>
+                        <p class="dashboard-card-text">Administration</p>
                     </div>
                 </div>
             </div>
@@ -74,9 +64,9 @@
                 <div class="card mb-3 dashboard-card">
                     <div class="card-body mx-auto">
                         <div class=" d-flex justify-content-center align-items-center">
-                            <i class="far fa-money-bill-alt fa-2x"></i>
+                            <i class="far fa-chart-bar fa-2x"></i>
                         </div>
-                        <p class="dashboard-card-text">Primary Card</p>
+                        <p class="dashboard-card-text">Business Monitor</p>
                     </div>
                 </div>
             </div>
